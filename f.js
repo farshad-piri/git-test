@@ -6,3 +6,4 @@ console.log('aliiiiiiiiiiiiiiiiii')
 function a (){
     console.log('amin piri')
 }
+const a ='ali ahmadi'
