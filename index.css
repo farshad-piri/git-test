@@ -1,3 +1,7 @@
 body{
     display: inline;
+    box-sizing: border-box;
+    display: block;
+    color: aliceblue;
 }
+
