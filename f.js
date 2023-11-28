@@ -7,3 +7,5 @@ function a (){
     console.log('amin piri')
 }
 const a ='ali ahmadi'
+console.log('farshad piri')
+const b=23434
