@@ -8,4 +8,4 @@ function a (){
 }
 const a ='ali ahmadi'
 console.log('farshad piri')
-const b=23434
+const b=2343
